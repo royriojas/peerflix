@@ -11,7 +11,7 @@
     "clivas": "~0.1.4",
     "range-parser": "0.0.4",
     "hat": "0.0.3",
-    "mime": "~1.2.9",
+    "mime": "~1.4.1",
     "numeral": "~1.4.7",
     "readable-stream": "~1.0.2",
     "read-torrent": "~0.1.0",
